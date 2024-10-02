@@ -1,0 +1,7 @@
+C:\Users\otorrez\Desktop\Mis proyectos\Institucion\Institucion\bin\Debug\Institucion.exe.config
+C:\Users\otorrez\Desktop\Mis proyectos\Institucion\Institucion\bin\Debug\Institucion.exe
+C:\Users\otorrez\Desktop\Mis proyectos\Institucion\Institucion\bin\Debug\Institucion.pdb
+C:\Users\otorrez\Desktop\Mis proyectos\Institucion\Institucion\obj\Debug\Institucion.csproj.AssemblyReference.cache
+C:\Users\otorrez\Desktop\Mis proyectos\Institucion\Institucion\obj\Debug\Institucion.csproj.CoreCompileInputs.cache
+C:\Users\otorrez\Desktop\Mis proyectos\Institucion\Institucion\obj\Debug\Institucion.exe
+C:\Users\otorrez\Desktop\Mis proyectos\Institucion\Institucion\obj\Debug\Institucion.pdb
